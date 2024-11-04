@@ -17,8 +17,8 @@ To implement the Hash Algorithm
 
 ## Code:
 ```
-Name : Abdur Rahman Basil A H
-Register no : 212223040002
+Name : NIJEESH NJ
+Register no : 212223100039
 ```
 ```c
 #include <stdio.h>
